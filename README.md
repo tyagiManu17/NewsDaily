@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-[
+
 Access site at (https://tyagimanu17.github.io/NewsDaily/)
 
 ### `npm start`
