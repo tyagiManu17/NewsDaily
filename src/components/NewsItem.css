@@ -1,0 +1,20 @@
+.card{
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+}
+.tickin{
+    margin-top: 9px;
+    margin-left: 2px;
+    background-image: url(https://m.dailyhunt.in/assets/img/mobile/tick.svg?pwa=2&ver=2.0.28);
+    background-repeat: no-repeat;
+    flex: 1;
+}
+
+.source{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.flex-container{
+    display: flex;
+}
